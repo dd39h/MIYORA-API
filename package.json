@@ -1,8 +1,0 @@
-"scripts": {
-  "build": "tsup",
-  "start": "node server.mjs",
-  "release": "changeset publish",
-  "test": "vitest",
-  "test:run": "vitest run",
-  "prepare": "husky || true"
-}
